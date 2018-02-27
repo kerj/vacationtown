@@ -1,0 +1,29 @@
+blockquote {
+  font-family: cursive;
+}
+.jumbotron {
+    background-image: url("../image/top-bg.jpeg");
+    background-color: #17234E;
+    margin-bottom: 5%;`enter code here`
+    min-height: 50%;
+    background-repeat: repeat;
+    background-position: right;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: slategray;
+}
+body  {
+  background-color: slategray;
+}
+.well {
+  background-color: slategray;
+  margin-bottom: 5%;`enter code here`
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.discription  {
+  
+}
